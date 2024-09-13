@@ -1,0 +1,6 @@
+user_id,first_name,last_name,email,phone_number,address,last_interaction_date,preferences,order_history,loyalty_status
+1,Alice,Smith,alice@example.com,123-456-7890,123 Main St,2024-07-10,Cotton,"['ORD001', 'ORD002', 'ORD007', 'ORD010']",Gold
+2,Bob,Johnson,bob@example.com,234-567-8901,456 Elm St,2024-07-09,Silk,"['ORD003', 'ORD006', 'ORD009']",Silver
+3,Carol,Williams,carol@example.com,345-678-9012,789 Oak St,2024-07-11,Linen,"['ORD004', 'ORD005', 'ORD008']",Bronze
+4,David,Lee,david@example.com,456-789-0123,101 Pine St,2024-07-10,Denim,"['ORD011']",Bronze
+5,Emily,Taylor,emily@example.com,567-890-1234,202 Birch St,2024-07-12,Cotton,"['ORD012']",Silver

@@ -1,0 +1,41 @@
+product_id,product_name,category,description,price,available_sizes,fabric_type,image_link
+PROD001,Dress,Dresses,Cotton dress,50.0,"['S', 'M', 'L']",Cotton,link1
+PROD002,Blouse,Tops,Silk blouse,45.0,"['S', 'M']",Silk,link2
+PROD003,Jeans,Bottoms,Denim jeans,60.0,"['M', 'L']",Denim,link3
+PROD004,Skirt,Bottoms,Linen skirt,40.0,"['S', 'L']",Linen,link4
+PROD005,T-shirt,Tops,Cotton t-shirt,25.0,"['XS', 'S', 'M']",Cotton,link5
+PROD006,Jacket,Outerwear,Denim jacket,100.0,"['M', 'L', 'XL']",Denim,link6
+PROD007,Cardigan,Outerwear,Wool cardigan,80.0,"['S', 'M', 'L']",Wool,link7
+PROD008,Shorts,Bottoms,Cotton shorts,35.0,"['XS', 'S', 'M', 'L']",Cotton,link8
+PROD009,Sweater,Tops,Cashmere sweater,120.0,"['S', 'M', 'L', 'XL']",Cashmere,link9
+PROD010,Scarf,Accessories,Silk scarf,25.0,"['One Size']",Silk,link10
+PROD011,Hat,Accessories,Wool hat,30.0,"['One Size']",Wool,link11
+PROD012,Gloves,Accessories,Leather gloves,50.0,"['S', 'M', 'L']",Leather,link12
+PROD013,Coat,Outerwear,Wool coat,150.0,"['S', 'M', 'L', 'XL']",Wool,link13
+PROD014,Sneakers,Shoes,Leather sneakers,90.0,"['7', '8', '9', '10']",Leather,link14
+PROD015,Heels,Shoes,Suede heels,70.0,"['6', '7', '8', '9']",Suede,link15
+PROD016,Socks,Accessories,Cotton socks,10.0,"['S', 'M', 'L']",Cotton,link16
+PROD017,Handbag,Accessories,Leather handbag,200.0,"['One Size']",Leather,link17
+PROD018,Belt,Accessories,Leather belt,40.0,"['S', 'M', 'L']",Leather,link18
+PROD019,Leggings,Bottoms,Spandex leggings,30.0,"['S', 'M', 'L']",Spandex,link19
+PROD020,Blazer,Outerwear,Wool blazer,130.0,"['S', 'M', 'L', 'XL']",Wool,link20
+PROD021,Tracksuit,Bottoms,Cotton tracksuit,55.0,"['S', 'M', 'L']",Cotton,link21
+PROD022,Maxi Dress,Dresses,Silk maxi dress,75.0,"['S', 'M', 'L']",Silk,link22
+PROD023,Tank Top,Tops,Cotton tank top,20.0,"['XS', 'S', 'M']",Cotton,link23
+PROD024,Cap,Accessories,Cotton cap,15.0,"['One Size']",Cotton,link24
+PROD025,Sandals,Shoes,Leather sandals,60.0,"['6', '7', '8', '9']",Leather,link25
+PROD026,Ankle Boots,Shoes,Suede ankle boots,85.0,"['6', '7', '8', '9']",Suede,link26
+PROD027,Winter Coat,Outerwear,Down winter coat,200.0,"['S', 'M', 'L', 'XL']",Down,link27
+PROD028,Beanie,Accessories,Wool beanie,25.0,"['One Size']",Wool,link28
+PROD029,Tunic,Dresses,Linen tunic,65.0,"['S', 'M', 'L']",Linen,link29
+PROD030,Sunglasses,Accessories,Plastic sunglasses,40.0,"['One Size']",Plastic,link30
+PROD031,Clutch,Accessories,Leather clutch,70.0,"['One Size']",Leather,link31
+PROD032,Joggers,Bottoms,Cotton joggers,45.0,"['S', 'M', 'L']",Cotton,link32
+PROD033,Blouse,Tops,Chiffon blouse,35.0,"['S', 'M', 'L']",Chiffon,link33
+PROD034,Wrap Dress,Dresses,Cotton wrap dress,60.0,"['S', 'M', 'L']",Cotton,link34
+PROD035,Bomber Jacket,Outerwear,Leather bomber jacket,120.0,"['M', 'L', 'XL']",Leather,link35
+PROD036,Sport Bra,Tops,Spandex sport bra,30.0,"['S', 'M', 'L']",Spandex,link36
+PROD037,Slippers,Shoes,Fabric slippers,25.0,"['S', 'M', 'L']",Fabric,link37
+PROD038,Raincoat,Outerwear,Polyester raincoat,80.0,"['S', 'M', 'L', 'XL']",Polyester,link38
+PROD039,Suit Pants,Bottoms,Wool suit pants,100.0,"['S', 'M', 'L', 'XL']",Wool,link39
+PROD040,Evening Gown,Dresses,Silk evening gown,180.0,"['S', 'M', 'L']",Silk,link40

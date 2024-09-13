@@ -1,0 +1,14 @@
+order_id,user_id,order_date,products_ordered,order_status,total_amount
+ORD001,1,2024-07-01,"['PROD001', 'PROD002']",Delivered,120.5
+ORD002,1,2024-07-05,"['PROD003']",Shipped,75.0
+ORD003,2,2024-07-02,"['PROD004']",Delivered,50.25
+ORD004,3,2024-07-03,"['PROD005']",Pending,200.0
+ORD005,3,2024-07-07,"['PROD006']",Shipped,100.75
+ORD006,2,2024-07-08,"['PROD002', 'PROD004']",Delivered,85.0
+ORD007,1,2024-07-09,"['PROD005', 'PROD006']",Delivered,125.75
+ORD008,3,2024-07-10,"['PROD001']",Processing,50.0
+ORD009,2,2024-07-11,"['PROD003', 'PROD005']",Shipped,85.25
+ORD010,1,2024-07-12,"['PROD004']",Pending,40.0
+ORD011,4,2024-07-10,"['PROD007']",Shipped,80.0
+ORD012,5,2024-07-12,"['PROD008']",Delivered,35.0
+
